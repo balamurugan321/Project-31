@@ -6,7 +6,7 @@ var Engine = Matter.Engine,
 var particles = [];
 var plinkos = [];
 var divisions =[];
-var divisionHeight=200;
+var divisionHeight=210;
 var score =0;
 var colr = "skyblue";
 function setup() {
